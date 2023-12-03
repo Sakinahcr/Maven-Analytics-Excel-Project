@@ -1,7 +1,7 @@
 # Advanced Excel Formulas & Functions Project
 
 ## Situation
-You’ve just been hired as a Business Intelligence Analyst for Maven Recruiters* Recruiters*, a job placement agency based in the United States.
+You’ve just been hired as a Business Intelligence Analyst for **Maven Recruiters**, a job placement agency based in the United States.
 
 ## Brief
 Your first task is to analyze a public dataset from Glassdoor , which tracks average salaries and growth rates across a range of industries and job titles. Your goal is to use
