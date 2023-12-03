@@ -1,4 +1,4 @@
-# Advances Excel Formulas & Functions Project
+# Advanced Excel Formulas & Functions Project
 
 ## Situation
 You’ve just been hired as a Business Intelligence Analyst for Maven Recruiters* Recruiters*, a job placement agency based in the United States.
