@@ -1,21 +1,18 @@
-# Pizza-Sales
+# Advances Excel Formulas & Functions Project
 
-For the Maven Pizza Challenge, you’ll be playing the role of a BI Consultant hired by Plato's Pizza, a Greek-inspired pizza place in New Jersey. You've been hired to help the restaurant use data to improve operations, and just received the following note:
+## Situation
+You’ve just been hired as a Business Intelligence Analyst for Maven Recruiters* Recruiters*, a job placement agency based in the United States.
 
-Welcome aboard, we're glad you're here to help!
+## Brief
+Your first task is to analyze a public dataset from Glassdoor , which tracks average salaries and growth rates across a range of industries and job titles. Your goal is to use
+dynamic array formulas in Excel to explore the job landscape, compare salary expectations, and identify high growth opportunities for the agency.
 
-Things are going OK here at Plato's, but there's room for improvement. We've been collecting transactional data for the past year, but really haven't been able to put it to good use. Hoping you can analyze the data and put together a report to help us find opportunities to drive more sales and work more efficiently.
+## Obejctive
 
-Here are some questions that we'd like to be able to answer:
+• Review popular job titles by industry
 
-- What days and times do we tend to be busiest? - How many pizzas are we making during peak periods? - What are our best and worst selling pizzas? - What's our average order value? - How well are we utilizing our seating capacity? (we have 15 tables and 60 seats)
+• Compare average job salaries across top US cities
 
-That's all I can think of for now, but if you have any other ideas I'd love to hear them – you're the expert!
+• Identify top industries by salary and growth rate
 
-Thanks in advance, Mario Maven (Manager, Plato's Pizza)
-
-For this challenge, your task is to __build a single-page dashboard based on Mario's email to help him improve the restaurant's operation__s.
-
-
-## About The Data Set
-A year's worth of sales from a fictitious pizza place, including the date and time of each order and the pizzas served, with additional details on the type, size, quantity, price, and ingredients.
+• Visualize the overall salary distribution
