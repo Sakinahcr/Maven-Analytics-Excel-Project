@@ -16,3 +16,11 @@ dynamic array formulas in Excel to explore the job landscape, compare salary exp
 • Identify top industries by salary and growth rate
 
 • Visualize the overall salary distribution
+
+
+
+<kbd>![image](https://github.com/Sakinahcr/Maven-Analytics-Excel-Project/assets/132161850/8b889e29-bbe0-46d6-8724-2582603517ff)
+
+
+
+<kbd>![image](https://github.com/Sakinahcr/Maven-Analytics-Excel-Project/assets/132161850/e2030c61-e31f-4d87-83aa-35a86a7a8192)
