@@ -1,3 +1,5 @@
+This project was from Udemy Course - _Microsoft Excel: Advanced Excel Formulas & Functions_
+
 # Advanced Excel Formulas & Functions Project
 
 ## Situation
@@ -8,19 +10,20 @@ Your first task is to analyze a public dataset from Glassdoor , which tracks ave
 dynamic array formulas in Excel to explore the job landscape, compare salary expectations, and identify high growth opportunities for the agency.
 
 ## Obejctive
-
-• Review popular job titles by industry
-
-• Compare average job salaries across top US cities
-
 • Identify top industries by salary and growth rate
-
+• Review popular job titles by industry
+• Compare average job salaries across top US cities
 • Visualize the overall salary distribution
 
 
+Raw data: Has 5 columns
+<kbd>![image](https://github.com/Sakinahcr/Maven-Analytics-Excel-Project/assets/132161850/42e5ab93-3632-4c9c-8d27-5e0e9cea5d37)
 
-<kbd>![image](https://github.com/Sakinahcr/Maven-Analytics-Excel-Project/assets/132161850/8b889e29-bbe0-46d6-8724-2582603517ff)
+### 1. Identify top industries by salary and growth rate
 
+From the raw data, to identify the top industries by salary and growth rate, I nesting the unique and sortby functions. Then to determine the average salary and growth by the job Industry, I use averageifs function.
 
+<kbd>![image](https://github.com/Sakinahcr/Maven-Analytics-Excel-Project/assets/132161850/8de509d7-c875-46b2-8cef-9af61c9cd2e6)
 
-<kbd>![image](https://github.com/Sakinahcr/Maven-Analytics-Excel-Project/assets/132161850/e2030c61-e31f-4d87-83aa-35a86a7a8192)
+Conclusion: Law is the top industry with average salary of $93,394.70 and average growth rate of 1.50%
+
