@@ -20,7 +20,7 @@ dynamic array formulas in Excel to explore the job landscape, compare salary exp
 
 Raw data: Has 5 columns
 
-<kbd>![image](https://github.com/Sakinahcr/Maven-Analytics-Excel-Project/assets/132161850/42e5ab93-3632-4c9c-8d27-5e0e9cea5d37)
+<kbd>![image](https://github.com/Sakinahcr/Maven-Analytics-Excel-Project/assets/132161850/44230e4d-ae79-486a-afb0-4168f8829da5)
 
 ### 1. Identify top industries by salary and growth rate
 
@@ -37,4 +37,11 @@ To list down the average job salaries by job title by industry with dynamic view
 <kbd>![image](https://github.com/Sakinahcr/Maven-Analytics-Excel-Project/assets/132161850/902e954b-31f0-4f67-9749-af9d53b3f7e9)
 
 ### 3. Visualize the overall salary distribution 
+
+
+
+
+### 4. Compare average job salaries across top US cities 
+
+
 
