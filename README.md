@@ -28,7 +28,7 @@ From the raw data, to identify the top industries by salary and growth rate, I n
 
 <kbd>![image](https://github.com/Sakinahcr/Maven-Analytics-Excel-Project/assets/132161850/8de509d7-c875-46b2-8cef-9af61c9cd2e6)
 
-Conclusion: Law is the top industry with average salary of $93,394.70 and average growth rate of 1.50%
+_Conclusion:_ Law is the top industry with average salary of $93,394.70 and average growth rate of 1.50%
 
 ### 2. Review average job salaries by job titles by Industry 
 
@@ -38,10 +38,36 @@ To list down the average job salaries by job title by industry with dynamic view
 
 ### 3. Visualize the overall salary distribution 
 
+<kbd>![image](https://github.com/Sakinahcr/Maven-Analytics-Excel-Project/assets/132161850/d7962c77-9603-46f4-bd6a-f75633127870)
 
-
+_Conclusion:_
 
 ### 4. Compare average job salaries across top US cities 
+
+<kbd>![image](https://github.com/Sakinahcr/Maven-Analytics-Excel-Project/assets/132161850/4b7b23ff-6114-4277-846e-b9c5489e8a75)
+
+_Conclusion:_
+
+
+## Extra
+
+All this objectives can be done easily by using pivot table as shown below:
+
+### 1. Identify top industries by salary and growth rate
+
+<kbd>![image](https://github.com/Sakinahcr/Maven-Analytics-Excel-Project/assets/132161850/fa63e0a7-9850-4d78-965e-3c9234ea69c3)
+
+### 2. Review average job salaries by job titles by Industry 
+
+<kbd>![image](https://github.com/Sakinahcr/Maven-Analytics-Excel-Project/assets/132161850/9294965e-477c-4789-a022-0a22a5b2e90e)
+
+### 3. Visualize the overall salary distribution 
+
+<kbd>![image](https://github.com/Sakinahcr/Maven-Analytics-Excel-Project/assets/132161850/07c7e1a9-f7f8-4537-ab3d-73e4e4234a2c)
+
+### 4. Compare average job salaries across top US cities
+
+<kbd>![image](https://github.com/Sakinahcr/Maven-Analytics-Excel-Project/assets/132161850/4a2cb820-f3ef-4096-9226-dd578aa68b51)
 
 
 
