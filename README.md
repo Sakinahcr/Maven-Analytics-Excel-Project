@@ -6,8 +6,7 @@ This project was from Udemy Course - _Microsoft Excel: Advanced Excel Formulas &
 You’ve just been hired as a Business Intelligence Analyst for **Maven Recruiters**, a job placement agency based in the United States.
 
 ## Brief
-Your first task is to analyze a public dataset from Glassdoor , which tracks average salaries and growth rates across a range of industries and job titles. Your goal is to use
-dynamic array formulas in Excel to explore the job landscape, compare salary expectations, and identify high growth opportunities for the agency.
+Your first task is to analyze a public dataset from Glassdoor, which tracks average salaries and growth rates across a range of industries and job titles. Your goal is to use dynamic array formulas in Excel to explore the job landscape, compare salary expectations, and identify high growth opportunities for the agency.
 
 ## Objective
 • Identify top industries by salary and growth rate
@@ -25,7 +24,7 @@ _Raw data: Has 5 columns_
 
 ### 1. Identify top industries by salary and growth rate
 
-From the raw data, to identify the top industries by salary and growth rate, I nesting the UNIQUE and SORTBY functions. Then to determine the average salary and growth by the job Industry, I use AVERAGEIFS function.
+From the raw data, to identify the top industries by salary and growth rate, I nested the UNIQUE and SORTBY functions. Then to determine the average salary and growth by the job Industry, I use AVERAGEIFS function.
 
 <kbd>![image](https://github.com/Sakinahcr/Maven-Analytics-Excel-Project/assets/132161850/8de509d7-c875-46b2-8cef-9af61c9cd2e6)
 
@@ -47,7 +46,7 @@ __Conclusion:_ Most salary are between $60,000.00 to $90,000.00_
 
 ### 4. Compare average job salaries across top US cities 
 
-To make the pivot header, I use the TRANSPOSE function in addition to SORT function so the cities are sorted alphabetically. The top 10 salary in Technology Industry is higlighted in blue by using CONDITIONAL FORMATTING.
+To make the pivot header, I use the TRANSPOSE function in addition to SORT function, so the cities are sorted alphabetically. The top 10 salary in Technology Industry is highlighted in blue by using CONDITIONAL FORMATTING.
 
 <kbd>![image](https://github.com/Sakinahcr/Maven-Analytics-Excel-Project/assets/132161850/4b7b23ff-6114-4277-846e-b9c5489e8a75)
 
@@ -56,7 +55,7 @@ __Conclusion:_ Most high salary in technology Industry is mostly from San Fransi
 
 # Extra
 
-All these objectives can be done easily by using pivot table as shown below:
+All these objectives can be achieved easily by using pivot table as shown below:
 
 ### 1. Identify top industries by salary and growth rate
 
