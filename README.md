@@ -28,7 +28,7 @@ From the raw data, to identify the top industries by salary and growth rate, I n
 
 <kbd>![image](https://github.com/Sakinahcr/Maven-Analytics-Excel-Project/assets/132161850/8de509d7-c875-46b2-8cef-9af61c9cd2e6)
 
-__Conclusion:_ Law is the top industry with average salary of $93,394.70 and average growth rate of 1.50%_
+__Finding:_ Law is the top industry with average salary of $93,394.70 and average growth rate of 1.50%_
 
 ### 2. Review average job salaries by job titles by Industry 
 
@@ -42,7 +42,7 @@ To visualize salary distribution, I use SEQUENCE and FREQUENCY functions.
 
 <kbd>![image](https://github.com/Sakinahcr/Maven-Analytics-Excel-Project/assets/132161850/d7962c77-9603-46f4-bd6a-f75633127870)
 
-__Conclusion:_ Most salary are between $60,000.00 to $90,000.00_
+__Finding:_ Most salary are between $60,000.00 to $90,000.00_
 
 ### 4. Compare average job salaries across top US cities 
 
@@ -50,7 +50,7 @@ To make the pivot header, I use the TRANSPOSE function in addition to SORT funct
 
 <kbd>![image](https://github.com/Sakinahcr/Maven-Analytics-Excel-Project/assets/132161850/4b7b23ff-6114-4277-846e-b9c5489e8a75)
 
-__Conclusion:_ Most high salary in technology Industry is mostly from San Fransisco City._
+__Finding:_ Most high salary in technology Industry is mostly from San Fransisco City._
 
 
 # Extra
